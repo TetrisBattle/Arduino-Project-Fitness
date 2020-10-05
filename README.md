@@ -1,5 +1,5 @@
 # Fitness-Arduino-Project
-This project is written in finnish.
+This project is written in C++, using finnish words.
 
 This is an arduino project.
 It was designed to be used on wrist with LCD touchscreen.
